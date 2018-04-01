@@ -1,0 +1,3 @@
+{
+    "connectionString": "mongodb://test:test@ds227199.mlab.com:27199/awacker-test"
+}
